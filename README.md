@@ -12,4 +12,4 @@
 
 4. Coding environment using [Visual Studio Code](https://code.visualstudio.com/download).  Do ensure you installed [Git desktop](https://www.git-scm.com/downloads) with [Git configured your username and email](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).  Usually, username and email is your Github ones.
 
-5. After getting your Gemini Chatbot up, good learn her prompt engineeing at [here](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
+5. After getting your Gemini Chatbot up, good learn her prompt engineering at [here](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
