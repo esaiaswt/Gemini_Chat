@@ -43,7 +43,7 @@ chat_session = model.start_chat(
 
 # From Streamlit Chatbot Tutorial
 # https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps
-st.title("Gemini Bot")
+st.title("Simple Gemini ChatBot")
 
 # Initialize chat history
 if "messages" not in st.session_state:
